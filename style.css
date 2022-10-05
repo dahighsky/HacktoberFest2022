@@ -44,7 +44,6 @@ body {
 .team-member, .team-member .team-img {
     position: relative;
 }
-
 .team-hover {
     position: absolute;
     top: 0;
